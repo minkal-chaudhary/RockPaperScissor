@@ -1,0 +1,28 @@
+body{
+    background-color: black;
+}
+.conatiner1{
+    border:2px solid black;
+    text-align: center;
+   
+}
+.conatiner1 h1{
+    color:white;
+    font-family:Cambria;;
+    font-size:50px;
+   
+}
+.flex-box-container{
+    display:flex;
+    margin:50px;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    border:;
+    }
+    .flex-box-container img:hover{
+        
+        box-shadow: 10px 10px 8px #888888;
+    }
+    .flex-box-container img{
+       margin:0px;
+    }

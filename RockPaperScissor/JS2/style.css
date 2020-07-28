@@ -1,0 +1,22 @@
+.container1{
+    border:2px solid black;
+    text-align: center;
+    margin:auto auto; 
+    background-color: black;
+}
+body{
+    background-color: black;
+}
+.container1 h1{
+    color:white;
+}
+.flex-box-container{
+display:flex;
+flex-wrap: wrap;
+justify-content: space-around;
+border:1px solid black;
+}
+.flex-box-container img{
+    margin:10px;
+    box-shadow: 10px 10px 8px #888888;
+}
